@@ -22,4 +22,5 @@ This notebook is a simple example of titanic Disaster in python. It is a Kaggle 
 4) Visualize it's features.<br/>
 5) Select features.<br/>
 6) Apply Machine Learning Algorithm, like Random Forest, Support Vector Machine, Logistic Regression, Gradient Boosting Classifier, and evaluate its model's accuracy, using confusion matrix.<br/>
-7) Prepare the predicted data for Kaggle Submission.
+7) Apply Machine Learning Algorithm from scratch, like Logistic regression, to Titanic Dataset.<br/>
+8) Prepare the predicted data for Kaggle Submission.
